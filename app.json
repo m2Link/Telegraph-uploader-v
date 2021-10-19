@@ -24,7 +24,7 @@
             "description": "Get this from @BotFather XD",
             "required": true
         },
-        "OWNER ID": {
+        "BOT_OWNER": {
             "description": "Bot Owner Id",
             "required": true
         },
