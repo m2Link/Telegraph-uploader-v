@@ -83,11 +83,11 @@ START_BUTTONS = InlineKeyboardMarkup(
         InlineKeyboardButton('🗣 Support Group', url="https://t.me/m2botzsupport")
         ],
         [InlineKeyboardButton('🧑‍💻Developer', url="https:/t.me/ask_admin01")],
-        [[
+        [
         InlineKeyboardButton('⚙ Help', callback_data='help'),
         InlineKeyboardButton('About 🔰', callback_data='about'),
         [InlineKeyboardButton('Close ✖️', callback_data='close')
-        ]]
+        ]
   )
 
 HELP_BUTTONS = InlineKeyboardMarkup(
