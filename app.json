@@ -49,18 +49,18 @@
       "value": ""
     },
     "BOT_OWNER": {
-      "description":"Database
+      "description": "Database
       "required": true,
       "value": ""
     },
     "DATABASE_URL": {
       "description": "Not compulsory. Obtain your Telegram Chat's username/id",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "UPDATE_CHANNEL": {
       "description": "Obtain your Telegram ID",
-      "required": true,
+      "required": false,
       "value": ""
     }
 
