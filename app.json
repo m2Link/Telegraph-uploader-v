@@ -8,7 +8,7 @@
         "Telegraph-Uploader-Bot-V2",
         "Image"
     ],
-    "repository": "https://github.com/m2Link/Telegraph-Uploader-Bot-V2",
+    "repository": "https://github.com/m2Link/Telegraph-uploader-v",
     "website": "https://telegram.dog/AmineSoukara",
     "success_url": "https://t.me/DamienSoukara",
     "env": {
