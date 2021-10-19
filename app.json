@@ -31,6 +31,10 @@
         "DATABASE_URL": {
             "description": "MongoDB URL",
             "required": true
+        },
+        "UPDATE_CHANNEL": {
+             "description": "Force Subscribe Chann Id
+             "required": true
         }
     },
     "buildpacks": [
