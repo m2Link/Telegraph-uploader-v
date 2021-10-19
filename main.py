@@ -79,15 +79,15 @@ FORCE_SUBSCRIBE_TEXT = "<code>Sorry Dear You Must Join My Updates Channel for us
 
 START_BUTTONS = InlineKeyboardMarkup(
         [
-        InlineKeyboardButton('💬 Update Channel', url="https://telegram.me/m2botz'),
-        InlineKeyboardButton('🗣 Support Group', url="https://t.me/m2botzsupport'),
+        InlineKeyboardButton('💬 Update Channel', url="https://telegram.me/m2botz"),
+        InlineKeyboardButton('🗣 Support Group', url="https://t.me/m2botzsupport")
         ],
-        [InlineKeyboardButton('🧑‍💻Developer', url="https:/t.me/ask_admin01')],
-        [[
+        [InlineKeyboardButton('🧑‍💻Developer', url="https:/t.me/ask_admin01")],
+        [
         InlineKeyboardButton('⚙ Help', callback_data='help'),
-        InlineKeyboardButton('About 🔰', callback_data='about'),
-        InlineKeyboardButton('Close ✖️', callback_data='close')
-        ]]
+        InlineKeyboardButton('About 🔰', callback_data='about')
+        ],
+        [InlineKeyboardButton('Close ✖️', callback_data='close')],
     )
 
 HELP_BUTTONS = InlineKeyboardMarkup(
