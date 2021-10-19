@@ -28,7 +28,7 @@
             "description": "Bot Owner Id",
             "required": true
         },
-        "GENIUS_API": {
+        "DATABASE_URL": {
             "description": "Genius Api From Here : https://genius.com/api-clients",
             "required": true
         }
