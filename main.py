@@ -40,7 +40,7 @@ I am small media or file to telegra.ph link uploader bot.**
 
 >> `I can convert under 5MB photo or video to telegraph link.`
 
-Made by @FayasNoushad"""
+Made with ❤️ By @M2Botz"""
 
 HELP_TEXT = """**Hey, Follow these steps:**
 
@@ -79,6 +79,11 @@ FORCE_SUBSCRIBE_TEXT = "<code>Sorry Dear You Must Join My Updates Channel for us
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
+        InlineKeyboardButton('💬 Update Channel', url="https://telegram.me/m2botz'),
+        InlineKeyboardButton('🗣 Support Group', url="https://t.me/m2botzsupport')
+        ],
+        [InlineKeyboardButton('🧑‍💻Developer', url="https:/t.me/ask_admin01')],
+        [
         InlineKeyboardButton('⚙ Help', callback_data='help'),
         InlineKeyboardButton('About 🔰', callback_data='about'),
         InlineKeyboardButton('Close ✖️', callback_data='close')
