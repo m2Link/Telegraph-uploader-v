@@ -24,6 +24,10 @@
             "description": "Get this from @BotFather XD",
             "required": true
         },
+        "OWNER ID": {
+            "description": "Bot Owner Id",
+            "required": true
+        },
         "GENIUS_API": {
             "description": "Genius Api From Here : https://genius.com/api-clients",
             "required": true
