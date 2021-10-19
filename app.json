@@ -34,7 +34,7 @@
         },
         "UPDATE_CHANNEL": {
              "description": "Force Subscribe Chann Id
-             "required": true
+             "required": false
         }
     },
     "buildpacks": [
