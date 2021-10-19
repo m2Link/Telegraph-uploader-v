@@ -58,7 +58,7 @@
       "required": false,
       "value": ""
     },
-    "OWNER_ID": {
+    "BOT_OWNER": {
       "description": "Obtain your Telegram ID",
       "required": true,
       "value": ""
