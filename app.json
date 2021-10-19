@@ -48,7 +48,7 @@
       "required": true,
       "value": ""
     },
-    "DATABASE": {
+    "BOT_OWNER": {
       "description":"Database
       "required": true,
       "value": ""
@@ -58,7 +58,7 @@
       "required": false,
       "value": ""
     },
-    "BOT_OWNER": {
+    "UPDATE_CHANNEL": {
       "description": "Obtain your Telegram ID",
       "required": true,
       "value": ""
